@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1613464047 source:h:\cbw\callcmsg\main.cpp
+	"main.h"
+	<iostream>
+
+1613454374 h:\cbw\callcmsg\main.h
+	<windows.h>
+	<string>
+	<tchar.h>
+
